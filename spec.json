@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "titre_rncp": "Manager les Ressources Humaines",
+    "bloc": "BC01",
+    "intitule_bloc": "Élaborer la stratégie RH de son périmètre en responsabilité",
+    "epreuve": "Dossier de 20 pages environ (3 parties : dispositif de veille, diagnostic RH et stratégie RH RSE) + Oral 45 minutes (15' présentation + 30' échange)",
+    "duree_reelle_min": 210,
+    "note_reflexive": false
+  },
+  "moment_narratif": {
+    "date_fictive": "Mars 2025",
+    "titre_affaire": "Opération Pulse Horizon — Lumio Health face à sa mue stratégique",
+    "situation": "Lumio Health, medtech parisienne spécialisée dans les wearables de gestion du stress au travail, s'apprête à doubler ses effectifs RH d'ici 18 mois suite à l'entrée au capital du fonds Northgate (représenté par Jakob Rein). Le CEO Théo Marczak a mandaté une refonte complète de la stratégie RH pour accompagner l'hypercroissance, répondre aux exigences ESG du fonds et sécuriser l'attractivité des talents dans un marché medtech ultra-concurrentiel. Sonia Ferracci (DirMkt) pousse pour une marque employeur différenciante, Camille Ott (B2B) signale une fuite de compétences commerciales, et Yassine Morel (Content) alerte sur un climat social dégradé post-restructuration.",
+    "enjeu_central": "Construire une stratégie RH RSE crédible, adossée à un diagnostic rigoureux et à un dispositif de veille structuré, capable de satisfaire simultanément les attentes du fonds Northgate sur les indicateurs ESG, de retenir les talents critiques et de piloter une transformation organisationnelle agile dans un secteur medtech en disruption permanente."
+  },
+  "commanditaire": {
+    "nom": "Théo Marczak",
+    "role": "CEO de Lumio Health"
+  },
+  "competences": [
+    {
+      "code": "A1",
+      "label": "Pilotage de la veille stratégique RH",
+      "rncp": "Veille stratégique RH digitale et réglementaire ; Veille économique, sociale et technologique avec outils IA",
+      "placeholder": "Décrivez le dispositif de veille que vous avez conçu pour Lumio Health : quelles sources avez-vous sélectionnées (réglementaires, concurrentielles, technologiques, socio-économiques), quels outils digitaux ou IA avez-vous mobilisés pour automatiser la collecte et l'analyse, et comment avez-vous traduit les signaux faibles en recommandations opérationnelles pour ajuster la politique RH de la medtech ?",
+      "min_mots": 400,
+      "mots_cles": [
+        "veille réglementaire",
+        "sources primaires et secondaires",
+        "automatisation",
+        "intelligence artificielle",
+        "signaux faibles",
+        "benchmarking sectoriel medtech",
+        "scénarios prospectifs",
+        "recommandations opérationnelles",
+        "tableau de bord veille",
+        "amélioration continue"
+      ],
+      "conseil": "Structurez votre dispositif en quatre domaines (réglementaire, concurrentiel, technologique, socio-économique) et nommez explicitement les outils IA utilisés (ex. agrégateurs, NLP, alertes automatisées). Montrez comment chaque signal identifié a débouché sur une préconisation concrète pour Lumio Health, notamment face aux évolutions du droit social dans le secteur medtech et à la pression ESG de Northgate."
+    },
+    {
+      "code": "A2",
+      "label": "Management de l'innovation RH",
+      "rncp": "Management de l'innovation sociale et organisationnelle ; Méthodes collaboratives et transformation digitale RH",
+      "placeholder": "Expliquez comment vous avez intégré les méthodes collaboratives (design thinking, agilité) et les disruptions technologiques dans la stratégie RH de Lumio Health. Quelles démarches participatives avez-vous mises en œuvre pour fédérer les équipes autour de la transformation, notamment dans un contexte de tensions post-restructuration signalé par Yassine Morel ?",
+      "min_mots": 350,
+      "mots_cles": [
+        "innovation sociale",
+        "design thinking",
+        "agilité RH",
+        "transformation digitale",
+        "démarche participative",
+        "adhésion des acteurs",
+        "disruption technologique",
+        "conduite du changement",
+        "co-construction",
+        "organisation apprenante"
+      ],
+      "conseil": "Illustrez par des exemples concrets issus du contexte Lumio Health : ateliers de co-conception avec les équipes B2B et Content, sprints RH, pilotes agiles. Montrez la cohérence entre innovation RH et les objectifs de croissance de Théo Marczak, et expliquez comment vous avez géré la résistance au changement identifiée par Yassine Morel."
+    },
+    {
+      "code": "A3",
+      "label": "Conduite d'audit RH",
+      "rncp": "Diagnostic stratégique RH et analyse des processus ; Outils d'audit RH et utilisation de data analytics",
+      "placeholder": "Présentez le diagnostic stratégique RH que vous avez conduit chez Lumio Health : méthodologie retenue, ressources et processus audités, forces et faiblesses identifiées, données analytics mobilisées, et recommandations formulées pour construire une politique RH adaptée à l'hypercroissance et aux exigences RSE de Northgate.",
+      "min_mots": 450,
+      "mots_cles": [
+        "diagnostic stratégique",
+        "audit RH",
+        "forces et faiblesses",
+        "cartographie des processus",
+        "data analytics",
+        "SIRH",
+        "analyse de l'écosystème",
+        "indicateurs RH",
+        "conformité réglementaire",
+        "analyse de matérialité"
+      ],
+      "conseil": "Utilisez une grille d'audit structurée couvrant au moins cinq processus RH clés (recrutement, formation, performance, QVCT, mobilité). Croisez les données quantitatives (turnover, absentéisme, coût recrutement) avec les données qualitatives (entretiens, focus groups). Intégrez explicitement la dimension RSE et la conformité réglementaire medtech dans votre analyse."
+    },
+    {
+      "code": "A4",
+      "label": "Définition et évaluation d'une stratégie RH RSE",
+      "rncp": "Stratégie RH responsable et indicateurs clés (KPI) ; RSE et transition écologique en RH ; Priorisation RSE et analyse de matérialité RH ; Gestion des risques RH avec IA prédictive et approche effectuale",
+      "placeholder": "Définissez la stratégie RH RSE que vous proposez pour Lumio Health : alignement à la stratégie globale, KPI RH et ESG retenus, dispositif de reporting, analyse de matérialité réalisée, cartographie des parties prenantes, identification et évaluation des risques RH, usage d'outils d'IA prédictive et application de l'approche effectuale pour sécuriser la stratégie dans un contexte d'incertitude lié à l'entrée de Northgate.",
+      "min_mots": 500,
+      "mots_cles": [
+        "stratégie RH durable",
+        "KPI ESG",
+        "reporting RH responsable",
+        "analyse de matérialité",
+        "parties prenantes",
+        "risques RH",
+        "IA prédictive",
+        "approche effectuale",
+        "ODD",
+        "transition écologique",
+        "inclusion",
+        "indicateurs de risque",
+        "plans de prévention"
+      ],
+      "conseil": "Artichez votre stratégie autour de trois horizons temporels (court, moyen, long terme) et reliez chaque KPI à un enjeu identifié dans votre analyse de matérialité. Montrez comment l'IA prédictive vous permet d'anticiper les risques de fuite des talents critiques (notamment commerciaux, signalés par Camille Ott) et comment l'approche effectuale vous permet d'avancer par itérations face à l'incertitude du développement international de Lumio Health."
+    }
+  ],
+  "livrable": {
+    "format": "Dossier écrit structuré en 3 parties (Partie 1 : Dispositif de veille stratégique RH — Partie 2 : Diagnostic RH — Partie 3 : Stratégie RH RSE), environ 20 pages, complété d'une soutenance orale de 45 minutes (15' présentation + 30' échange avec le jury)",
+    "total_mots_min": 520,
+    "note_reflexive_min": 100
+  },
+  "jury_criteres_eliminatoires": [
+    "Absence de définition claire des rôles et responsabilités des acteurs RH impliqués dans la stratégie (DRH, managers, CODIR, partenaires sociaux) et confusion entre niveau stratégique et niveau opérationnel dans le dossier",
+    "Absence d'indicateurs d'impact mesurables (KPI RH et ESG) permettant d'évaluer la stratégie proposée et de piloter les résultats dans le temps",
+    "Dispositif de veille réduit à une liste de sources sans méthodologie structurée, sans outillage digital ou IA identifié, et sans traduction des résultats en recommandations opérationnelles",
+    "Diagnostic RH non étayé par des données quantitatives ou qualitatives issues de l'entreprise fictive, rendant les recommandations stratégiques non fondées et non contextualisées",
+    "Absence d'analyse de matérialité RSE ou de cartographie des parties prenantes, empêchant toute priorisation des enjeux RH responsables dans la stratégie proposée",
+    "Stratégie RH déconnectée de la stratégie globale de l'entreprise (hypercroissance, exigences Northgate, transition digitale) et absence de prise en compte des contraintes sectorielles de la medtech",
+    "Non-identification et non-évaluation des risques RH stratégiques et opérationnels, et absence de tout plan de prévention ou de dispositif de gestion de crise RH"
+  ],
+  "documents_fictifs": [
+    {
+      "id": "DOC01",
+      "type": "note_stratégique",
+      "expediteur": "Théo Marczak",
+      "objet": "Feuille de route Lumio Health 2025-2027 — Priorités RH & ESG pour l'entrée de Northgate",
+      "role_narratif": "Pose le cadre stratégique global : doublement des effectifs, exigences ESG du fonds, objectifs de croissance internationale. Fournit les données de contexte indispensables au diagnostic RH et à l'analyse d'alignement stratégique.",
+      "acte": 1
+    },
+    {
+      "id": "DOC02",
+      "type": "rapport_audit_interne",
+      "expediteur": "Cabinet RH externe mandaté par Lumio Health",
+      "objet": "Rapport d'audit flash RH Lumio Health — Novembre 2024 : Processus, climat social et conformité",
+      "role_narratif": "Révèle les failles des processus RH actuels (onboarding défaillant, absentéisme en hausse de 18%, turn-over de 34% sur les profils commerciaux) et les non-conformités réglementaires identifiées. Alimente directement la partie Diagnostic RH du dossier.",
+      "acte": 1
+    },
+    {
+      "id": "DOC03",
+      "type": "email",
+      "expediteur": "Camille Ott",
+      "objet": "URGENT — Départ de 3 account managers clés d'ici 60 jours : ce qu'on ne peut plus ignorer",
+      "role_narratif": "Signal d'alarme sur la fuite de compétences commerciales critiques. Introduit le risque RH majeur de perte de savoir-faire B2B au moment précis de la montée en puissance commerciale attendue par Northgate. Déclenche la nécessité d'une cartographie des risques RH.",
+      "acte": 2
+    },
+    {
+      "id": "DOC04",
+      "type": "benchmark_sectoriel",
+      "expediteur": "Sonia Ferracci",
+      "objet": "Veille concurrentielle RH medtech — Pratiques marque employeur et RSE de Withings, Owlet et BioSerenity",
+      "role_narratif": "Fournit les données de benchmarking sectoriel pour nourrir le dispositif de veille stratégique. Permet de positionner Lumio Health par rapport à ses concurrents sur les pratiques RH innovantes et RSE, et d'identifier les signaux faibles du marché des talents medtech.",
+      "acte": 2
+    },
+    {
+      "id": "DOC05",
+      "type": "compte_rendu_comite",
+      "expediteur": "Jakob Rein (Northgate Capital)",
+      "objet": "Exigences ESG Northgate — Grille d'évaluation RH et indicateurs non-négociables pour le closing Q2 2025",
+      "role_narratif": "Formalise les attentes précises du fonds en matière d'indicateurs ESG RH (parité, inclusion, empreinte carbone RH, bien-être mesurable), de reporting et de gouvernance sociale. Constitue le référentiel pour la construction des KPI de la stratégie RH RSE.",
+      "acte": 3
+    },
+    {
+      "id": "DOC06",
+      "type": "enquete_interne",
+      "expediteur": "Yassine Morel",
+      "objet": "Résultats enquête clima social Lumio Health — Janvier 2025 : 58% de collaborateurs en détresse émotionnelle modérée à élevée",
+      "role_narratif": "Données quantitatives et verbatims qualitatifs issus d'une enquête interne sur le bien-être au travail. Alerte sur un climat social dégradé post-restructuration et introduit la nécessité d'intégrer des indicateurs de QVCT et de stress au travail dans la stratégie RH, en cohérence avec la mission même de Lumio Health (ironie narrative).",
+      "acte": 3
+    },
+    {
+      "id": "DOC07",
+      "type": "note_juridique",
+      "expediteur": "Juriste social externe — Cabinet Ardent & Associés",
+      "objet": "Analyse réglementaire RH 2025 : CSRD, Index égalité professionnelle, IA Act et impact sur les pratiques RH Lumio Health",
+      "role_narratif": "Cadrage réglementaire complet intégrant les nouvelles obligations CSRD, les évolutions de l'IA Act applicables aux outils RH prédictifs et les exigences de l'index égalité. Nourrit le dispositif de veille réglementaire et la dimension conformité de l'audit RH.",
+      "acte": 4
+    },
+    {
+      "id": "DOC08",
+      "type": "presentation_board",
+      "expediteur": "Théo Marczak",
+      "objet": "Board Lumio Health — Arbitrages finaux stratégie RH 2025 : 3 scénarios de transformation présentés aux actionnaires",
+      "role_narratif": "Présente trois scénarios stratégiques RH soumis au board (croissance organique maîtrisée, hypercroissance accélérée avec risques assumés, transformation RSE-first). Permet au candidat de positionner ses recommandations dans un contexte de décision sous incertitude et d'illustrer l'approche effectuale.",
+      "acte": 5
+    }
+  ],
+  "easter_egg": {
+    "type": "whatsapp",
+    "personnages": [
+      "Sonia Ferracci",
+      "Yassine Morel"
+    ],
+    "tension_revelee": "Sonia : 'Entre nous, Théo veut présenter la stratégie RH RSE à Northgate comme si on était déjà conformes CSRD. On ne l'est pas. Tu peux faire passer ça en contenu institutionnel sans que ça soit trop voyant ?' — Yassine : 'Sonia je vais pas couvrir ça. Si Jakob Rein fait un audit sérieux avant le closing, on est tous les deux exposés. Et franchement, si notre propre produit mesure le stress et que nos équipes crèvent… c'est quoi notre message ?'"
+  }
+}
